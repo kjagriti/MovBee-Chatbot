@@ -1,1 +1,4 @@
 # MovBee-Chatbot
+
+The objective of my chatbot is a question answer model such that given a user input, the chatbot will respond in terms of movie dialogue according to the question. For example, if the user asks a question like “give me your hand please” the chatbot will respond “All right, I'll work on it, I'll, do some research. But in the meantime, don't get crazy.”
+The motivation behind this model is inspired from the movie “Bumblebee” directed by Travis Knight. The synopsis of the movie is that Bumblebee, Autobot(transformer) who can convert into a yellow Volkswagen beetle, is seeking refuge on the Earth from the battle whose current state is scarred and broken. Charlie, protagonist of the movie, discovers him and tries fix him. However, Bumblebee can only connect with her via tuning the radio channel. In the similar fashion, the name of my Chatbot is “Mov Bee”, who can only make conversation using the movie dialogues that is present in its database.
